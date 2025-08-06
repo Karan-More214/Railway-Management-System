@@ -37,7 +37,9 @@ The system uses a normalized relational database with the following entities:
 - **Passenger** – stores passenger details for each booking
 - **Payment** – records payment information for bookings
 
-![ER Diagram](ER-diagram.png)
+![ER Diagram]
+<img width="840" height="506" alt="ER-diagram" src="https://github.com/user-attachments/assets/d5464998-91aa-4a76-91b3-6144c7d26443" />
+
 
 ---
 
